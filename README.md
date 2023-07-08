@@ -1,16 +1,16 @@
 __***`10 Steps to a Better Minecraft 1.19.4 Experience:`***__
-﻿
+
 ***1.*** download **`Essential Client:`**
 https://essential.gg/
 ***2.*** install `fabric 1.19.4`
-﻿
+
 ***3.*** download **`1.19.4 texturepacks:`**
 texture pack: https://vanillatweaks.net/share#flLvTd
 no pumpkin overlay: https://vanillatweaks.net/share#etafEp
 mob spawning indicator: https://vanillatweaks.net/share#Ys0a4N
 fullbright: https://vanillatweaks.net/share#OAZh1L
 ***4.*** put them in the `resourcepack folder` in the `essential installation` in the `.minecraft folder`
-﻿
+
 ***5.*** download **`Fabric API:`**
 https://modrinth.com/mod/fabric-api/versions?g=1.19.4&l=fabric
 ***6.*** download **`Shader + Performance mods (iris + sodium):`**
@@ -41,7 +41,7 @@ Mods that require Fabric language Kotlin (https://modrinth.com/mod/fabric-langua
 inventory profiles next: https://modrinth.com/mod/inventory-profiles-next/versions?l=fabric&g=1.19.4 (also requires libIPN: https://modrinth.com/mod/libipn/versions?l=fabric&g=1.19.4)
 
 ***8.*** install them in the `mods folder` in the `essential installation` in the `.minecraft folder`
-﻿
+
 ***9.*** download **`BSL Shader:`**
 https://www.bslshaders.com/
 ***10.*** put them in the `shaderpacks folder` in the `essential installation` in the `.minecraft folder`
