@@ -1,5 +1,5 @@
 __***`10 Steps to a Better Minecraft 1.19.4 Experience:`***__
-﻿
+
 ***1.*** download **`Essential Client:`**
 https://essential.gg/
 ***2.*** install `fabric 1.19.4`
