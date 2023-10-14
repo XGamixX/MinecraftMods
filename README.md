@@ -34,8 +34,6 @@ https://modrinth.com/mod/indium/versions?g=1.20.2&l=fabric
 \
 https://modrinth.com/mod/phosphor/versions?g=1.20.2&l=fabric (doesnt exist yet)
 \
-https://modrinth.com/mod/borderless-mining/versions?g=1.20.2&l=fabric
-\
 https://modrinth.com/mod/immediatelyfast/versions?g=1.20.2&l=fabric
 \
 https://modrinth.com/mod/entityculling/versions?g=1.20.2&l=fabric
@@ -79,6 +77,8 @@ simple voice chat: https://modrinth.com/plugin/simple-voice-chat/versions?g=1.20
 ambient sounds: https://modrinth.com/mod/ambientsounds/versions?l=fabric&g=1.20.2
 \
 appleskin: https://modrinth.com/mod/appleskin/versions?l=fabric&g=1.20.2
+\
+borderless mining: https://modrinth.com/mod/borderless-mining/versions?g=1.20.2&l=fabric
 
 Mods that require creativecore (https://modrinth.com/mod/creativecore/versions?g=1.20.2&l=fabric):
 \
