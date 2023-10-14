@@ -12,12 +12,12 @@ fullbright: https://vanillatweaks.net/share#OAZh1L
 ***4.*** put them in the `resourcepack folder` in the `essential installation` in the `.minecraft/essential_mod folder`
 
 ***5.*** download **`Fabric API:`**
-https://modrinth.com/mod/fabric-api/versions?g=1.20.2&l=fabric
-***6.*** download **`all of these mods to improve performance:`**
-https://modrinth.com/mod/iris/versions?g=1.20.2&l=fabric
-https://modrinth.com/mod/lithium/versions?g=1.20.2&l=fabric
-https://modrinth.com/mod/sodium/versions?g=1.20.2&l=fabric
-https://modrinth.com/mod/indium/versions?g=1.20.2&l=fabric
+https://modrinth.com/mod/fabric-api/versions?g=1.20.2&l=fabric\n
+***6.*** download **`all of these mods to improve performance:`**\n
+https://modrinth.com/mod/iris/versions?g=1.20.2&l=fabric\n
+https://modrinth.com/mod/lithium/versions?g=1.20.2&l=fabric\n
+https://modrinth.com/mod/sodium/versions?g=1.20.2&l=fabric\n
+https://modrinth.com/mod/indium/versions?g=1.20.2&l=fabric\n
 https://modrinth.com/mod/phosphor/versions?g=1.20.2&l=fabric (doesnt exist yet)
 https://modrinth.com/mod/borderless-mining/versions?g=1.20.2&l=fabric
 https://modrinth.com/mod/immediatelyfast/versions?g=1.20.2&l=fabric
